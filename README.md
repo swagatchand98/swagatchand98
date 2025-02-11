@@ -1,4 +1,4 @@
-![hippo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFxeGhjcnZ2a3NvZWxmczlmaXBjdzVwZXFwNmU1ODB4dHkydzJ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C7g1iJFwqXCk8/giphy.gif)![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhrb3RjMmpjdm5jYW1vcHRiaGlza3JzcTZsZnBvdDJuNm9uY2JwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oFzmkkwfOGlzZ0gxi/giphy.gif)
+![hippo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFxeGhjcnZ2a3NvZWxmczlmaXBjdzVwZXFwNmU1ODB4dHkydzJ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C7g1iJFwqXCk8/giphy.gif)
 
 # 💫 About Me:
 👋 About Me  <br>Hey there! I'm Swagat, a passionate full-stack developer and tech enthusiast from Bangalore 🌆. I love building meaningful projects that solve real-world problems and experimenting with new technologies.  <br><br>🚀 Current Focus  <br>- Web & Mobile Development: MERN & React Native  <br>- Open Source: Exploring the open source world  <br>- DevOps & Web3: Always eager to explore <br><br>📍currently based in Bangalore, originally from Padampur, Odisha 🌾<br><br> 🌐 Personal Portfolio  <br>Check out my work at [swagat.site](https://swagat.site) 
